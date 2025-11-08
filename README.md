@@ -27,6 +27,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dlemalshika&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
